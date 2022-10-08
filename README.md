@@ -2,7 +2,7 @@
 
 I'm a student from Poland.
 
-[Telegram](https://t.me/malamityy) • [Reddit]((https://www.reddit.com/user/Malamityyy/))
+[Telegram](https://t.me/malamityy) • [Reddit](https://www.reddit.com/user/Malamityyy/)
 
 ### 🔮 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
